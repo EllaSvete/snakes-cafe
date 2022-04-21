@@ -5,7 +5,7 @@
 Author: Ella Svete
 
 - Links and Resources:
-  - I used the zoom link as a reference, which was really helpful to get started and work from memory and use it as a reference for my first dabble in python!
+  - I used the zoom link as a reference, which was really helpful to get started and work from memory and use it as a reference for my first dabble in python! Specifically I used JB's build out with my class mate Michelle's code as a reference.
 
 - How to initialize/run your application : python3 snakes_cafe.py
 
